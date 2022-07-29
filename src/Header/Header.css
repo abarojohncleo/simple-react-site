@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    background-color: #21222A;
+    color: white;
+    box-sizing: border-box;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+
+.logo {
+    width: 70px;
+    height: 60px;
+    margin: 20px;
+}
+
+.header > h3, .header > h4{
+    margin: 0;
+    font-weight: 700;
+}
+
+.header > h3 {
+    font-size: 30px;
+    color: #61dafb;
+    margin-right: auto;
+}
+
+.header > h4 {
+    color: #deebf8;
+    font-size: 20px;
+    padding: 10px;
+}

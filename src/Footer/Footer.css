@@ -1,0 +1,16 @@
+/* Footer */
+
+.footer{
+    position: fixed;
+    width: 100%;
+    background: black;
+    color: gray;
+    height: 25px;
+}
+
+.footer small {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 10px;
+    text-align: center;
+}
